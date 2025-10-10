@@ -21,4 +21,4 @@ A web application to track cryptocurrency prices, market cap, and historical pri
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/crypto-price-tracker.git
+git clone https://github.com/kundangupta04/Cryptoplace.git
