@@ -3,7 +3,7 @@
 A web application to track cryptocurrency prices, market cap, and historical price charts. Built with **React** and powered by the **CoinGecko API**.
 
 ## Screenshot
-![alt text](<Screenshot (92).png>)
+c:\Users\KUNDAN\Downloads\Screenshot (92).png
 
 ## Features
 
